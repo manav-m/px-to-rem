@@ -4,7 +4,7 @@ import sys
 # get file path from command line
 filePath = sys.argv[1]
 # file extensions to use
-fileExtensions = ("sass", "less", "css", "scss")
+fileExtensions = ("sass", "less", "css", "scss", "jsx", "js")
 # value of rem in pixel
 remValue = 16
 
